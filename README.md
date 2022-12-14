@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html style="font-size: 16px;" lang="en"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
@@ -34,14 +33,14 @@
     <meta property="og:title" content="Personal Website">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-xl-mode" data-lang="en"><header class="u-align-left u-clearfix u-header u-section-row-container" id="sec-bdfa"><div class="u-section-rows">
+  <body class="u-body u-xl-mode" data-lang="en;"><header class="u-align-left u-clearfix u-header u-section-row-container" id="sec-bdfa"><div class="u-section-rows">
         <div class="u-grey-70 u-section-row u-section-row-1" id="sec-46aa">
           <div class="u-clearfix u-sheet u-sheet-1">
             <div class="u-social-icons u-spacing-10 u-social-icons-1">
               <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/chrisp03/"><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xlink:href="#svg-aee4"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-aee4"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
             c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
               </a>
-              <a class="u-social-url" title="youtube" target="_blank" href="https://www.youtube.com/channel/UC-t6ehEpi5gaLDNCWM-LFzg"><span class="u-file-icon u-icon u-social-icon u-social-twitter u-icon-2"><img src="images/image-3.png" alt=""></span>
+              <a class="u-social-url" title="youtube" target="_blank" href="https://www.youtube.com/channel/UC-t6ehEpi5gaLDNCWM-LFzg"><span class="u-file-icon u-icon u-social-icon u-social-twitter u-icon-2"><img src="images/image-19.png" alt=""></span>
               </a>
               <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/crispotato3/"><span class="u-icon u-social-icon u-social-instagram u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xlink:href="#svg-1b76"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-1b76"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M55.9,38.2c-9.9,0-17.9,8-17.9,17.9C38,66,46,74,55.9,74c9.9,0,17.9-8,17.9-17.9C73.8,46.2,65.8,38.2,55.9,38.2
             z M55.9,66.4c-5.7,0-10.3-4.6-10.3-10.3c-0.1-5.7,4.6-10.3,10.3-10.3c5.7,0,10.3,4.6,10.3,10.3C66.2,61.8,61.6,66.4,55.9,66.4z"></path><path fill="#FFFFFF" d="M74.3,33.5c-2.3,0-4.2,1.9-4.2,4.2s1.9,4.2,4.2,4.2s4.2-1.9,4.2-4.2S76.6,33.5,74.3,33.5z"></path><path fill="#FFFFFF" d="M73.1,21.3H38.6c-9.7,0-17.5,7.9-17.5,17.5v34.5c0,9.7,7.9,17.6,17.5,17.6h34.5c9.7,0,17.5-7.9,17.5-17.5V38.8
@@ -118,7 +117,7 @@
               </div>
               <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                 <div class="u-container-layout u-valign-bottom-lg u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-2">
-                  <img class="u-expanded-width u-image u-image-default u-image-1" src="images/image-5.png" alt="" data-image-width="947" data-image-height="960">
+                  <img class="u-expanded-width u-image u-image-default u-image-1" src="images/image.png" alt="" data-image-width="947" data-image-height="960">
                 </div>
               </div>
             </div>
@@ -213,32 +212,32 @@
           <div class="u-repeater u-repeater-1">
             <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-1">
               <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-4">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-1" data-image-width="1280" data-image-height="800" src="images/image-13.png">
+                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-1" data-image-width="1280" data-image-height="800" src="images/image-18.png">
               </div>
             </div>
             <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-2">
               <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-5">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-2" data-image-width="1280" data-image-height="720" src="images/image-11.png">
+                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-2" data-image-width="1280" data-image-height="720" src="images/image-16.png">
               </div>
             </div>
             <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-3">
               <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-6">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-3" data-image-width="1280" data-image-height="720" src="images/image-12.png">
+                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-3" data-image-width="1280" data-image-height="720" src="images/image-17.png">
               </div>
             </div>
             <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-4">
               <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-7">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-4" data-image-width="1000" data-image-height="667" src="images/image-9.png">
+                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-4" data-image-width="1000" data-image-height="667" src="images/image-14.png">
               </div>
             </div>
             <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-5">
               <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-8">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-5" data-image-width="1000" data-image-height="667" src="images/image.png">
+                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-5" data-image-width="1000" data-image-height="667" src="images/image-2.png">
               </div>
             </div>
             <div class="u-container-align-center-sm u-container-align-center-xs u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-6">
               <div class="u-container-layout u-similar-container u-valign-middle u-container-layout-9">
-                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-6" data-image-width="1280" data-image-height="853" src="images/image-10.png">
+                <img alt="" class="u-absolute-hcenter-sm u-absolute-hcenter-xs u-expanded-width u-image u-image-contain u-image-default u-image-6" data-image-width="1280" data-image-height="853" src="images/image-15.png">
               </div>
             </div>
           </div>
@@ -277,7 +276,7 @@
                         </div>
                       </div>
                       <div class="u-container-style u-grey-80 u-list-item u-repeater-item u-list-item-4">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-7"><span class="u-file-icon u-icon u-icon-4"><img src="images/image-8.png" alt=""></span>
+                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-7"><span class="u-file-icon u-icon u-icon-4"><img src="images/image-6.png" alt=""></span>
                         </div>
                       </div>
                     </div>
@@ -295,7 +294,7 @@
           <div class="u-gallery-inner u-gallery-inner-1">
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
               <div class="u-back-slide" data-image-width="720" data-image-height="720">
-                <img class="u-back-image u-expanded" src="images/1.jpg">
+                <img class="u-back-image u-expanded" src="images/image-8.png">
               </div>
               <div class="u-over-slide u-shading u-over-slide-1">
                 <h3 class="u-gallery-heading"></h3>
@@ -304,7 +303,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
               <div class="u-back-slide" data-image-width="768" data-image-height="768">
-                <img class="u-back-image u-expanded" src="images/2.jpg">
+                <img class="u-back-image u-expanded" src="images/image-9.png">
               </div>
               <div class="u-over-slide u-shading u-over-slide-2">
                 <h3 class="u-gallery-heading"></h3>
@@ -313,7 +312,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
               <div class="u-back-slide" data-image-width="768" data-image-height="768">
-                <img class="u-back-image u-expanded" src="images/3.jpg">
+                <img class="u-back-image u-expanded" src="images/image-10.png">
               </div>
               <div class="u-over-slide u-shading u-over-slide-3">
                 <h3 class="u-gallery-heading"></h3>
@@ -322,7 +321,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
               <div class="u-back-slide" data-image-width="534" data-image-height="538">
-                <img class="u-back-image u-expanded" src="images/4.jpg">
+                <img class="u-back-image u-expanded" src="images/image-11.png">
               </div>
               <div class="u-over-slide u-shading u-over-slide-4">
                 <h3 class="u-gallery-heading"></h3>
@@ -331,7 +330,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
               <div class="u-back-slide" data-image-width="768" data-image-height="768">
-                <img class="u-back-image u-expanded" src="images/5.jpg">
+                <img class="u-back-image u-expanded" src="images/image-12.png">
               </div>
               <div class="u-over-slide u-shading u-over-slide-5">
                 <h3 class="u-gallery-heading"></h3>
@@ -340,7 +339,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item">
               <div class="u-back-slide" data-image-width="514" data-image-height="643">
-                <img class="u-back-image u-expanded" src="images/6.png">
+                <img class="u-back-image u-expanded" src="images/image-13.png">
               </div>
               <div class="u-over-slide u-shading u-over-slide-6">
                 <h3 class="u-gallery-heading"></h3>
